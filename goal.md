@@ -1,1 +1,3 @@
-[//]: # (- Describe the goal of the competition and target audience.)
+<!--
+Describe the goal of the competition and target audience.
+-->

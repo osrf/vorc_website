@@ -1,6 +1,9 @@
-[//]: # (- Overview of the task types L1 vs L2 and link to the task description pdf.)
-[//]: # (E.g.: The tasks are divided into two categories...L1 or basic behaviors)
-[//]: # ( and L2 or advanced behaviors that require combining L1 ...)
-[//]: # (- Overview of the tech guide and link.)
-[//]: # (E.g.: The techical guide describes the common aspects of the competition)
-[//]: # ( that are independent of the tasks. the platform, propulsion, sensors, submission.)
+<!--
+  - Overview of the task types (L1 vs L2) and link to the task description pdf.
+    E.g.: The tasks are divided into two categories...L1 or basic behaviors
+    and L2 or advanced behaviors that require combining L1 ...
+  - Overview of the tech guide and link.
+    E.g.: The technical guide describes the common aspects of the competition
+    that are independent of the tasks: the platform, propulsion, sensors,
+    submission process.
+ -->
