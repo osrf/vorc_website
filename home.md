@@ -13,8 +13,6 @@
 Run entirely within a Gazebo/ROS-based simulation environment, VORC allows competitors 
 to dive into real problems of autonomous control, and prototype and test innovation solutions.
 
-### 
-
 <!-- Video here? -->
 
 
