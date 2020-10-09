@@ -6,8 +6,8 @@
 ## Stimulate learning and broaden exposure to robotic technologies.
 
 ## Introduce the challenges of autonomy faster with simulation. 
-### For experienced roboticists, simulation facilitates rapid testing and the accelerates the development cycle.
-### For newcomers, it lowers the barrier of entry.
+
+## Provide a venue and incentive for students of robotics to prototype and test innovative solutions.
 
 <!--
 Paragraph Style:

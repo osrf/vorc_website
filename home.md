@@ -1,7 +1,7 @@
 # Virtual Ocean Robotics Challenge
 
 <!--Slogan -->
-## Build real autonomy on virtual waters.
+## Real autonomy on virtual waters.
 
 
 ## Key Dates
@@ -11,9 +11,13 @@
 
 ### Autonomous vessels. Simulated seas.
 Run entirely within a Gazebo/ROS-based simulation environment, VORC allows competitors 
-to dive into real problems of autonomous control, and prototype and test innovation solutions.
+to dive into real problems of autonomous control. 
+* For experienced roboticists, simulation facilitates rapid testing and accelerates development.
+* For newcomers, it lowers the barrier of entry.
 
-<!-- Video here? -->
+
+<!-- Video text -->
+### The Environment and Challenges
 
 
 
@@ -37,4 +41,5 @@ to dive into real problems of autonomous control, and prototype and test innovat
   Some references:
   https://www.colinatriste.es/
   https://www.subtchallenge.com/
+and prototype and test innovation solutions.
 -->
