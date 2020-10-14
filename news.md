@@ -8,7 +8,7 @@ will follow shortly.
 
 ## October 9, 2020: Marina Environment Ready 
 
-The competition marina is now ready for use. Based on the marina of La Sprezia, Italy, 
+The competition marina is now ready for use. Based on the marina of La Spezia, Italy, 
 this initial model includes waves and terrain. 
 
 ## October 9, 2020: Introducing the new CoRa model
