@@ -5,9 +5,8 @@
 
 
 ## Key Dates
-* Phase 1: November 6, 2020
-* Phase 2: November 23, 2020
-* Phase 3: December 11, 2020
+* Phase 1: November 13, 2020
+* Phase 2: December 4-11, 2020
 
 ### Autonomous vessels. Simulated seas.
 Run entirely within a Gazebo/ROS-based simulation environment, VORC allows competitors 
