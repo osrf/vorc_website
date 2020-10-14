@@ -6,10 +6,12 @@ We are pleased to officially announce that preparations for VORC 2020 are underw
 We are now seeking participants! Details about the registration and key dates
 will follow shortly.
 
-## October 9, 2020: Marina Environment Ready 
+## October 9, 2020: Virtual Marina Ready 
 
 The competition marina is now ready for use. Based on the marina of La Spezia, Italy, 
-this initial model includes waves and terrain. 
+this initial model includes waves and terrain.
+
+ ![Virtual Marina inspired by La Spezia](/pictures/venue/marina.png)
 
 ## October 9, 2020: Introducing the new CoRa model
 
@@ -17,6 +19,7 @@ Our new surface vessel model, the "Common Raft" (CoRa), is now available, comple
 functioning thrusters, sensors, and hydrodynamic plugins. CoRa will be the standard platform
 for the VORC competition.
 
+![Common Raft (CoRa)](/pictures/platform/CoRa_back.png)
 
 ## October 16, 2020: Preliminary Release of the Complete Competition Environment 
 
