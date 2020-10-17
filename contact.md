@@ -4,7 +4,7 @@
 To report technical issues, please file a ticket on the VORC issue tracker.
 
 ## General Questions
-For general-purpose competition questions, post a new message on [communicty.gazebosim.org](https://github.com/osrf/vorc)
+For general-purpose competition questions, post a new message on [community.gazebosim.org](https://github.com/osrf/vorc)
 
 ## Other Questions
 For sensitive or personal inquiries not appropriate for the community forum, please use 
